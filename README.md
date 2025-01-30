@@ -12,7 +12,7 @@ This is a simple API that returns email, current datetime, and GitHub repository
 # Response:
 ```json
 {
-  "email": "your-email@example.com",
+  "email": "diberifavour@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/Molonia2002/Public-API.git"
 }
